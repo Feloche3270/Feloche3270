@@ -34,5 +34,5 @@ sole developer on two internal applications that went to production.
 - 🎹 Outside of code: fitness (5 years), piano, video games and techno music.
 
 ## Contact
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">](www.linkedin.com/in/fgeorget-g3270)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">](https://www.linkedin.com/in/fgeorget-g3270)
 
