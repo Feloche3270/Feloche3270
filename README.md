@@ -5,6 +5,8 @@ I build tools people actually use: during my work-study year, I was the
 sole developer on two internal applications that went to production.
 
 ## What I'm working on
+- **OAI Search Pipeline** (Python, Elasticsearch, Docker): OAI-PMH harvesting,
+  metadata mapping and Elasticsearch search. Tested with pytest, runs in GitHub Actions.
 - **CI Log Analyzer** (Python): turns CI test results and build logs into
   clear reports. Tested with pytest, runs in GitHub Actions.
 - **Ianthos** (private, in progress): a habit-tracking PWA built with
